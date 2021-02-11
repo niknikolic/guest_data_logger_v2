@@ -13,8 +13,8 @@
 |10:50 - 11:35 | Bralla: Pagina per visualizzare le chiavi<br>Gnesa: amministrazione utenti<br>Nikolic & Agustoni: conteggio persone|
 |12:30 - 13:15 | Bralla: Eliminazione e modifica stand<br>Gnesa: grafici<br>Nikolic & Agustoni: post http request con json |
 |13:15 - 14:00 | Bralla: Eliminazione e modifica stand<br>Gnesa: grafici<br>Nikolic & Agustoni: post http request con json|
-|14:15 - 15:00 | Bralla: Eliminazione e modifica stand<br>Gnesa: grafici<br>Nikolic & Agustoni: |
-|15:00 - 15:45 | Bralla: Eliminazione e modifica stand<br>Gnesa: grafici<br>Nikolic & Agustoni: conteggio persone|
+|14:15 - 15:00 | Bralla: Eliminazione e modifica stand<br>Gnesa: grafici<br>Nikolic & Agustoni: implementazione tk come frame|
+|15:00 - 15:45 | Bralla: Eliminazione e modifica stand<br>Gnesa: grafici<br>Nikolic & Agustoni: implementazione tk come frame|
 ##  Problemi riscontrati e soluzioni adottate
 Bralla: Malfunzionamento del server MySQL, soluzione cambio pc e postazione di lavoro.
 Nikolic & Agustoni: installazione librerie fallita, soluzione creazione di un nuovo virtualenv.
